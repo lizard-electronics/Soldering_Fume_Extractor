@@ -1,2 +1,2 @@
-# 3_FumeExtractor
- Portable soldering fume extractor based on an ATmega328P MCU.
+# Soldering Fume Extractor
+Portable soldering fume extractor based on an ATmega328P MCU.
